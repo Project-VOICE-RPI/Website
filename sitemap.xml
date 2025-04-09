@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://cinpct.org/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://cinpct.org/</loc>
+</url>
+<url>
+<loc>https://cinpct.org/agenda/</loc>
+<lastmod>2025-04-09T19:34:23-04:00</lastmod>
+</url>
+<url>
+<loc>https://cinpct.org/conference-organizers/</loc>
+<lastmod>2025-04-09T19:34:29-04:00</lastmod>
+<image:image>
+<image:loc>https://cinpct.org/media/posts/4/image.jpg</image:loc>
+<image:title><![CDATA[Jimin]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cinpct.org/media/posts/4/ci.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cinpct.org/media/posts/4/image-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cinpct.org/sponsors/</loc>
+<lastmod>2025-04-07T12:37:41-04:00</lastmod>
+<image:image>
+<image:loc>https://cinpct.org/media/posts/3/Haley-Poppy-FB.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cinpct.org/media/posts/3/RCOS.png</image:loc>
+<image:title><![CDATA[RCOS Logo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cinpct.org/media/posts/3/ieee-humanitarian-technologies-dsktp-logo2x.webp</image:loc>
+<image:title><![CDATA[IEEE]]></image:title>
+</image:image>
+</url>
+</urlset>

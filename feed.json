@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "CINPCT 2025",
+    "description": "",
+    "home_page_url": "https://cinpct.org",
+    "feed_url": "https://cinpct.org/feed.json",
+    "user_comment": "",
+    "icon": "https://cinpct.org/media/website/CINPCT_25_Site_Logo.png",
+    "author": {
+        "name": "Project Voice @ RPI"
+    },
+    "items": [
+    ]
+}
